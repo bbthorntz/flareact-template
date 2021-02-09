@@ -1,6 +1,6 @@
-name = "flareact-template"
+name = "hotels-p0-cloudflare"
 type = "webpack"
-account_id = ""
+account_id = "bb7db66d1187d912e43abc3a907caabc"
 workers_dev = true
 route = ""
 zone_id = ""
